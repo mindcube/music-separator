@@ -1,3 +1,10 @@
 env/
 separated_tracks/
 input.wav
+.DS_Store 
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.aac
+*.ogg
